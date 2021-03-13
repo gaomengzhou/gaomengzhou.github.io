@@ -7,9 +7,9 @@
 只是个休闲玩家
 
 ```markdown
-Syntax highlighted code block
-
 ### 写代码太无聊了,有什么有意思的事情可以喊我一起做!
+### 喜欢玩Steam游戏,生存游戏!
+### 喜欢喝酒唱歌,不喜欢回家!
 ```
 
 ### Jekyll Themes
