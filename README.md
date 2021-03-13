@@ -14,4 +14,6 @@
 ### 喜欢喝酒唱歌,不喜欢回家!
 ```
 
-### 好了,就这么多了! 👋 [![GitHubIndex](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou-informational)](https://github.com/gaomengzhou)
+### 好了,就这么多了! 👋 
+
+[![GitHubIndex](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou-informational)](https://github.com/gaomengzhou)
