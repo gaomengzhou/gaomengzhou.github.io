@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Hello! 你好啊!
 
-You can use the [editor on GitHub](https://github.com/gaomengzhou/gaomengzhou.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+闲来无事随便折腾.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 休闲玩家
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+只是个休闲玩家
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+```# Header 1
+```## Header 2
+```### Header 3
 
 - Bulleted
 - List
