@@ -13,5 +13,5 @@
 ```
 
 ### 结束
- 好了,就这么多了! 👋 [![Express.JS](https://img.shields.io/badge/-gaomengzhou-c7b198?style=plastic&logo=Express.JS)](https://github.com/gaomengzhou)
+ 好了,就这么多了! 👋 [![Express.JS](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou-informational)](https://github.com/gaomengzhou)
 
