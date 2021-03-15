@@ -17,3 +17,6 @@
 ### 好了,就这么多了! 👋 
 
 [![GitHubIndex](https://img.shields.io/badge/%F0%9F%8F%A0-gaomengzhou-informational)](https://github.com/gaomengzhou)
+
+### 访问量
+![](http://profile-counter.glitch.me/gaomengzhou/count.svg)
